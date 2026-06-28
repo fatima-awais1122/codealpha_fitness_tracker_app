@@ -1,6 +1,6 @@
 # 🏃‍♀️ CodeAlpha Fitness Tracker App
 
-A modern Flutter-based fitness tracking application developed as part of the **CodeAlpha Flutter Development Internship**.
+A modern Flutter-based fitness tracking application developed as part of the **CodeAlpha App Development Internship**.
 
 The app helps users record and manage their daily fitness activities, including steps, calories burned, and workout duration. All data is stored locally using **SQLite**, providing a fast and reliable offline experience.
 
@@ -8,23 +8,23 @@ The app helps users record and manage their daily fitness activities, including 
 
 ## ✨ Features
 
-- ➕ Add New Fitness Activities
-- 👀 View Saved Activities
-- ✏️ Edit Activity Details
-- 🗑️ Delete Activities
-- 🔍 Track Steps, Calories & Duration
-- 💾 Offline Data Storage using SQLite
-- 🎨 Clean & Responsive UI
-- ⚡ Smooth User Experience
+* ➕ Add New Fitness Activities
+* 👀 View Saved Activities
+* ✏️ Edit Activity Details
+* 🗑️ Delete Activities
+* 🔍 Track Steps, Calories & Duration
+* 💾 Offline Data Storage using SQLite
+* 🎨 Clean & Responsive UI
+* ⚡ Smooth User Experience
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Flutter
-- Dart
-- SQLite (sqflite)
-- Material Design
+* Flutter
+* Dart
+* SQLite (sqflite)
+* Material Design
 
 ---
 
@@ -52,8 +52,6 @@ lib/
 ├── widgets/
 └── main.dart
 ```
-
----
 
 ## 🚀 Getting Started
 
@@ -85,4 +83,4 @@ flutter run
 
 ## 📄 License
 
-This project was developed for learning purposes as part of the CodeAlpha Flutter Development Internship.
+This project was developed for learning purposes as part of the **CodeAlpha App Development Internship**.
